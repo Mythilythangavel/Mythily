@@ -1,2 +1,2 @@
 # Mythily
-Git_Demo
+Git_Practice_only_Demo
